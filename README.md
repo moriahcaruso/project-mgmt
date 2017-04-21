@@ -1,7 +1,10 @@
 # Welcome to the GitHub Project Management repository
 :tada:
 
-This repository was created as a resource for folks learning how to use GitHub as a collaborative project management tool. :octocat:
+## This repository was created as a resource for folks learning how to use GitHub as a collaborative project management tool. :octocat:
+
+## Moriah is the best new Github user around
+:open_mouth:
 
 Here are a few resources to help you right off the bat:
 * Glossary: https://github.com/joeyklee/friendly-github-intro/blob/master/glossary.md 
